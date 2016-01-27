@@ -1,5 +1,7 @@
 # Fundamentos de Informática para uso diario
 
+![Typing kitten](http://photos1.blogger.com/blogger/1809/941/1600/kittenonline.jpg)
+
 > Por informática se entiende la ciencia de darle rapido al teclado. Lo demás son tonterias.
 
 El curso está articulado en los siguientes capitulos:
