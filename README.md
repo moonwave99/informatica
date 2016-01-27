@@ -4,13 +4,13 @@
 
 El curso está articulado en los siguientes capitulos:
 
-1. [Gestión del File System con atajos de teclado](tree/master/101-gestion-del-file-system-con-atajos-de-teclado)
+1. [Gestión del File System con atajos de teclado](101-gestion-del-file-system-con-atajos-de-teclado)
 
 Cada capitulo contiene el texto de la lección, algunos ejercicios y material añadido si necesario.
 
 El curso está basado en la plataforma **Windows**, pero la mayoria de las nociones se aplican con minima diferencia a todos los sistemas operativos.
 
-Un resumen de los **atajos de teclado** se encuentra en [SHORTCUTS.md](blob/master/shortcuts.md).
+Un resumen de los **atajos de teclado** se encuentra en [SHORTCUTS.md](SHORTCUTS.md).
 
 ---
 
