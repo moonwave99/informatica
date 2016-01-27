@@ -50,7 +50,7 @@ Vamos a ver ahora como crear, borrar y navegar a traves de las carpetas del sist
 
 ### Creacion de carpetas
 
-1. situemonos en el Escritorio (<kbd>Win<kbd> + <kbd>D</kbd>);
+1. situemonos en el Escritorio (<kbd>Win</kbd> + <kbd>D</kbd>);
 2. creemos una **nueva carpeta** con <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>;
 3. aparecerá ahora una nueva carpeta amarilla, y tendremos la posibilidad de darle un nombre. Llamemosla **Informática**;
 4. para abrír sus contenidos, es suficiente apretár <kbd>Enter</kbd>. Veremos ahora un _File Explorer_ situado en la carpeta recién creada.
