@@ -14,7 +14,10 @@
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>: crear nueva carpeta;
 - <kbd>F2</kbd>: renombrar carpeta seleccionada;
 - <kbd>Backspace</kbd>: ir a la carpeta madre (_parent directory_);
-- <kbd>Delete</kbd>: borrar archivos/carpetas seleccionados.
+- <kbd>Delete</kbd>: borrar archivos/carpetas seleccionados;
+- <kbd>Ctrl</kbd>+<kbd>A</kbd>: seleccionar todos los elementos de una carpeta;
+- <kbd>Shift</kbd>+<kbd>↑/↓</kbd>: extender/reducir selección;
+- <kbd>Ctrl</kbd>+Click: añadir/quitar elemento de una selección.
 
 ## Web Browsers
 
@@ -22,4 +25,7 @@
 - <kbd>Espacio</kbd>: navega la pagina hacia abajo;
 - <kbd>Shift</kbd> + <kbd>Espacio</kbd>: navega la pagina hacia arriba;
 - <kbd>Ctrl</kbd> + <kbd>T</kbd>: abre una nueva pestaña;
-- <kbd>Ctrl</kbd> + <kbd>W</kbd>: cierra la pestaña corriente.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>: vuelve a abrir la ultima pestaña cerrada;
+- <kbd>Ctrl</kbd> + <kbd>W</kbd>: cierra la pestaña corriente;
+- <kbd>Ctrl</kbd> + <kbd>1-8</kbd>: va a la pestaña numero 1-8;
+- <kbd>Ctrl</kbd> + <kbd>9</kbd>: va a la ultima pestaña (a pesar del numero de pestañas abiertas);

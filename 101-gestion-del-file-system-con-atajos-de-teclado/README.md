@@ -75,7 +75,7 @@ Toda información se puede buscar e incontrar en Internet, inclusida toda la pre
 
 No vamos a revisar todos ahora, sino solo los de primera utilidad:
 
-- <kbd>Ctrl</kbd> + <kbd>L</kbd>: lleva a la barra de dirección (Address **L**ine). Desde allí podemos digitar una nueva dirección, o copiár la actual para pegarla en otro contexto;
+- <kbd>Ctrl</kbd> + <kbd>L</kbd>: lleva a la barra de dirección (Address <strong>L</strong>ine). Desde allí podemos digitar una nueva dirección, o copiár la actual para pegarla en otro contexto;
 - <kbd>Espacio</kbd>: navega la pagina hacia abajo;
 - <kbd>Shift</kbd> + <kbd>Espacio</kbd>: navega la pagina hacia arriba;
 - <kbd>Ctrl</kbd> + <kbd>T</kbd>: abre una nueva pestaña;
