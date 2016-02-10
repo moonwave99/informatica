@@ -28,14 +28,14 @@ _Una imagen vale mas de mil palabras._
 
 Solucion? Seleccionar desde el elemento que nos interese : ))
 
-## Seleccionar todo: <kbd>Ctrl</kbd>+<kbd>A</kbd>
+## Seleccionar todo: <kbd>Ctrl+A</kbd>
 
 Antes de seguir con ulteriores metodos de selección, no se nos olvide uno de los mas utiles: seleccionar todo!
 
 Es muy simple: situados en una carpeta, <kbd>Ctrl</kbd>+<kbd>A</kbd> selecciona todo su contenido. Ojo al manipular _todos_ los elementos de una carpeta, hacerlo solo si es vuestra real intención!
 
 
-## Alterar selecciones existentes: <kbd>Ctrl</kbd>+Click
+## Alterar selecciones existentes: <kbd>Ctrl+Click</kbd>
 
 A veces los elementos que nos interesan no aparecen de forma consecutiva en el interior de una carpeta, así que la tecnica recién aprendida no es efectiva. A caso esto significa que debemos volver a tratar los elementos uno a uno? No por supuesto, ahora veremos como.
 
@@ -53,7 +53,7 @@ _Ctrl + Click quita elementos también._
 
 **Nota:** como todo instrumento, no hay una forma unica de obtener un resultado. Tal vez resulta mas simple seleccionar todo y quitar lo que sobra, otra vez es mas comodo empezar una selección contigua y añadir los elementos necesarios después; la practica ayudará a conocer la manera mas comoda para cadauno.
 
-## Mover y copiar archivos existentes: <kbd>Ctrl</kbd>+<kbd>C</kbd>/<kbd>Ctrl</kbd>+<kbd>X</kbd> -> <kbd>Ctrl</kbd>+<kbd>V</kbd>
+## Mover y copiar archivos existentes: <kbd>Ctrl+C</kbd>/<kbd>Ctrl+V</kbd> > <kbd>Ctrl+V</kbd>
 
 Hasta ahora nos hemos limitado a borrar elementos. Normalmente no es necesario ser tan destructivos, y puede ser util mover los mismos en diferentes lugares.
 
